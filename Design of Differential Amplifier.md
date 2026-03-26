@@ -48,7 +48,8 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 ![WhatsApp Image 2026-03-24 at 10 14 38 PM](https://github.com/user-attachments/assets/3b581a8a-50d7-4987-80e6-d3e619917cfc)
 
 ## GRAPH:
-![WhatsApp Image 2026-03-24 at 10 14 57 PM](https://github.com/user-attachments/assets/8ee31fc7-73f2-4023-9a44-d68a8d354133)
+![WhatsApp Image 2026-03-26 at 1 06 12 PM](https://github.com/user-attachments/assets/c0c41fbd-50c5-48fb-9129-0ea841153ea4)
+
 
  ## RESULTS:
  Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
