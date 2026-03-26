@@ -40,12 +40,12 @@ band pass filter depends on the order of high pass and low pass sections.
 <img width="1600" height="1349" alt="image" src="https://github.com/user-attachments/assets/96d826cb-c626-49b0-8a60-20b53ad641a3" />
 
 ## HIGH_PASS
+![WhatsApp Image 2026-03-26 at 1 10 29 PM](https://github.com/user-attachments/assets/b67bc371-a47e-4347-97c3-56f910881391)
 
-<img width="1080" height="1087" alt="image" src="https://github.com/user-attachments/assets/b1af85cd-16e0-4a18-9196-c1b7f7edbd53" />
 
 ## BAND_PASS
 
-<img width="1080" height="1157" alt="image" src="https://github.com/user-attachments/assets/e2da2117-e275-43f0-905c-69902b725eca" />
+![WhatsApp Image 2026-03-26 at 1 10 29 PM (1)](https://github.com/user-attachments/assets/6137a9ac-d7d1-41e9-87ce-923507961cd5)
 
 ## MODEL GRAPH:
 ## LOW_PASS
