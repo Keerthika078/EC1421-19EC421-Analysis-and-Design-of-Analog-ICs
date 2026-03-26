@@ -35,9 +35,15 @@ For v2 and v3  keeping the other values constant.
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2026-03-26 at 1 36 12 PM](https://github.com/user-attachments/assets/6e8ef1d2-b551-4944-bea9-2fe64e335dad)
+
+
 <img width="637" height="1600" alt="image" src="https://github.com/user-attachments/assets/cd1fb66b-ebd9-416e-ba2c-1f3fdeac2ab9" />
 
 ## OUTPUT GRAPH:
+
+![WhatsApp Image 2026-03-26 at 1 37 19 PM](https://github.com/user-attachments/assets/b5cf6eff-9db9-4aef-b315-4c4bce2d6f22)
+
 
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/73f5440a-0095-4f32-9866-1a90c8df57ae" />
 
