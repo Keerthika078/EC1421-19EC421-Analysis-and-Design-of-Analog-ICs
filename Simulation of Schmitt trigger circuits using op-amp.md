@@ -24,11 +24,17 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
+
+![WhatsApp Image 2026-03-26 at 1 22 04 PM](https://github.com/user-attachments/assets/d3567ec1-a88f-4db7-b57e-673cb41c1e6c)
+
 <img width="489" height="1599" alt="image" src="https://github.com/user-attachments/assets/892fd7c4-76ba-48f0-91ab-0da26caa0487" />
 
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+
+![WhatsApp Image 2026-03-26 at 1 22 57 PM](https://github.com/user-attachments/assets/eff034cd-fe2b-4562-8d8b-bd26935b3120)
+
 <img width="324" height="1600" alt="image" src="https://github.com/user-attachments/assets/d679c5a3-7a64-40a2-8be7-0c37cf7e73aa" />
 
 ## RESULT:
